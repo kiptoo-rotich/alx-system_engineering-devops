@@ -1,1 +1,2 @@
-Readme fie
+#!/bin/bash
+echo "Hello, World"
